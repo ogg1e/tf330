@@ -4,6 +4,8 @@ TF330 source files.
 
 Published under GPL v2. 
 
+Twitter: @tf_stephen
+
 TF330 is distributed with absolutely no warranty. If you make a mistake you could blow up your CD32. I take no responsibility for this. 
 
 The TF330 is an 030 accelerator fixed at 50Mhz with 64Mb of SDRAM (128Mb possible), WIFI support (via ESP8266) and is intended to work with CF cards or IDE2SD card type devices. The IDE interface does not work with long cables. It is intended to be CHEAP Because thats pretty much all Amiga users care about. 
